@@ -9,7 +9,7 @@ Copy the "ftdetect" and "syntax" folders to your .vim or vimfiles folder.
 On Linux, you can use the [install shellscript](install.sh) to do this for you.
 
 ### [Vundle](https://github.com/VundleVim/Vundle.vim)
-Add `Plugin '7erra/vim-sqf'` to your vimrc.
+Add `Plugin 'KoffeinFlummi/vim-sqf'` to your vimrc.
 
 ## Usage
 sqf files are automatically associated with the sqf language. ext files are associated with C++, as Arma's configs are similar to it.
